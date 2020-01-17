@@ -1,4 +1,4 @@
-![white desk]https://s3.amazonaws.com/leenyburger.github.io/desk_white.png
+![white desk](https://s3.amazonaws.com/leenyburger.github.io/desk_white.png)
 
 You can use the [editor on GitHub](https://github.com/leenyburger/freelancing-101/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
